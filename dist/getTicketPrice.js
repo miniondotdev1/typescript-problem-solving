@@ -15,6 +15,7 @@ const getTicketPrice = (age) => {
     }
 };
 // 0
+console.log(getTicketPrice(3));
 console.log(getTicketPrice(10));
 // 100
 //# sourceMappingURL=getTicketPrice.js.map
