@@ -9,5 +9,11 @@ const products = [
     { name: "Mouse", price: 800 },
     { name: "USB Cable", price: 300 },
 ];
+const products2 = [
+    { name: "Book", price: 500 },
+    { name: "Pen", price: 50 },
+    { name: "Bag", price: 1200 },
+];
 console.log(calculateCartTotal(products));
+console.log(calculateCartTotal(products2));
 //# sourceMappingURL=calculateCartTotal.js.map
